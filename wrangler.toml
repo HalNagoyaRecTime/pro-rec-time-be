@@ -1,4 +1,4 @@
-name = "rec-time-be"
+name = "pro-rec-time-be"
 main = "src/index.ts"
 #nodeライブラリ互換フラグ
 compatibility_flags = [ "nodejs_compat" ]
